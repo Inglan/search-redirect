@@ -1,5 +1,7 @@
 # Search Redirect
 
+![](Tutorial.mp4)
+
 1. Open uBlock settings
 2. Go to the `Settings` tab
 3. Scroll down and click `I am an advanced user`
