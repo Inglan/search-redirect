@@ -1,6 +1,6 @@
 # Search Redirect
 
-![](Tutorial.mp4)
+https://github.com/user-attachments/assets/49b2d8fa-fda3-4e4b-af92-6b64beebedb2
 
 1. Open uBlock settings
 2. Go to the `Settings` tab
