@@ -14,7 +14,7 @@ It should now look like:
                        Other settings above...
            userResourcesLocation https://github.com/Inglan/search-redirect/raw/refs/heads/main/redirect.js
 ```
-7. Go back to uBlock settings
+7. Apply, then go back to uBlock settings
 8. Go to the `My filters`
 9. Enter one of the following
 
