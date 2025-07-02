@@ -30,7 +30,7 @@ For Google
 ```
 bing.com##+js(google.js)
 ```
-10. Done!
+10. Apply
 
 ## Why is this a uBlock script
 Our school force installs uBlock (nice one) and there is basically no other way to run userscripts
