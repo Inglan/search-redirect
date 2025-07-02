@@ -7,3 +7,8 @@ if (location.pathname == "/search") {
 if (location.pathname == "/search") {
   location.host = "search.brave.com"
 }
+
+/// duckgo.js
+if (location.pathname == "/search") {
+  location.host = "duckduckgo.com"
+}
