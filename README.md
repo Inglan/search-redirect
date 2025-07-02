@@ -22,6 +22,10 @@ For Brave Search (recommended)
 ```
 bing.com##+js(brave.js)
 ```
+For DuckDuckGo
+```
+bing.com##+js(duckgo.js)
+```
 For Google
 ```
 bing.com##+js(google.js)
