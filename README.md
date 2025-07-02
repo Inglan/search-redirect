@@ -44,3 +44,6 @@ You can see this is basically the same code as in the URL above
 
 ## Why does our school even enforce bing
 Google thinks our IP is being used for abuse. The school *could* have contacted Google about it, but they didn't. This means we get constant Captchas when using Google.
+
+## Another thing
+You can redirect any search engine that uses `/search?q=` for their search queries by changing the filter.
