@@ -17,6 +17,7 @@ It should now look like:
 7. Go back to uBlock settings
 8. Go to the `My filters`
 9. Enter one of the following
+
 For Brave Search (recommended)
 ```
 bing.com##+js(brave.js)
